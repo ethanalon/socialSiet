@@ -1,2 +1,2 @@
-# socialSiet
+# socialSite
 Social Media link website. Similar to Dot. and Linktree
